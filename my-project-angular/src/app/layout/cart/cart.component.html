@@ -1,0 +1,68 @@
+
+<!-- 
+
+  <div class="container">
+      <h3>MY Cart</h3>
+   
+    <div class="row mt-5 mx-5">
+      <ng-container *ngFor="let product of cartService._cartProducts">
+         
+      <div class="col col-md-3 mt-5" >
+        
+          <div class="card p-1" [ngStyle]="{ 'height': '500px' }" (click)="_details.load(product)">
+            <div class="card-image">
+              <img class="w-100 img-fluid" src="{{ product.image }}" alt="JUST A PHOTO">
+            </div>
+            <div class="card-body" style="padding: 10px;">
+              <h6>{{ product.name.slice(0, 50) }}...</h6>
+              <p>{{ product.description.slice(0, 100) }}...</p>
+              <span><b>{{ product.price }} TND</b></span><br>
+              <a href="#" class="btn btn-danger" style="margin-top: 5px;" (click)="deleteFromCart(product.id)">DELETE FROM CART</a>
+            </div>
+          </div>
+       
+      </div>
+  </ng-container>
+
+    </div>
+
+  </div>
+
+
+ -->
+ 
+
+ <div class="container">
+  <h3>MY Cart</h3>
+  <h6>Number Of Products : {{ numberItems}} </h6>
+  <h6>Total Price : {{totale}} TND</h6>
+  
+ 
+
+<div class="row mt-5 mx-5">
+  <ng-container *ngFor="let product of cartList">
+     
+  <div class="col col-md-3 mt-5" >
+    
+      <div class="card p-1" [ngStyle]="{ 'height': '500px' }" >
+        <div class="card-image">
+          <img class="w-100 img-fluid" src="{{ product.image }}" alt="JUST A PHOTO" (click)="_details.load(product)">
+        </div>
+        <div class="card-body" style="padding: 10px;">
+          <h6>{{ product.name.slice(0, 50) }}...</h6>
+          <p>{{ product.description.slice(0, 100) }}...</p>
+          <span><b>{{ product.price }} TND</b></span><br>
+          <a    class="btn btn-danger" style="margin-top: 5px;" 
+          onclick="window.location.reload(true);"  
+           (click)="deleteProduct(product)">DELETE FROM CART</a>
+
+
+        </div>
+      </div>
+   
+  </div>
+</ng-container>
+
+</div>
+
+</div>

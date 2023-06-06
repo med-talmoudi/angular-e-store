@@ -1,0 +1,61 @@
+.card-image {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .card-image img {
+    transition: transform 0.3s ease-in-out;
+    object-fit: cover;
+  }
+
+
+  .card-image:hover img {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .card {
+    transition: box-shadow 0.2s, transform 0.2s;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    transform: scale(1.03);
+    
+  }
+
+  span{
+    color: #dc3545;
+  }
+
+
+  @keyframes fadeInOut {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  .fade-in-out {
+    animation: fadeInOut 1s ease-in-out;
+  }
+
+
+  .cart-msg {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: none;
+  }
+  

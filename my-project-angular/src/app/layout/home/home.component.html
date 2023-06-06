@@ -1,0 +1,48 @@
+<app-category-nav-bar></app-category-nav-bar>
+
+
+  
+
+  <!-- <img [src]="'../../../assets/image/products-images/' + product.image" class="card-img-top" alt="..."> -->
+  
+
+
+  
+<div  [ngSwitch]=_service._category>
+   
+    <ng-container *ngSwitchCase ="'phone'">
+     <app-phone-tablet></app-phone-tablet>
+    </ng-container>
+    <ng-container *ngSwitchCase ="'laptop'">
+      <app-laptops-desktops></app-laptops-desktops>
+    </ng-container>
+    <ng-container *ngSwitchCase ="'accessories'">
+      <app-accessories></app-accessories>
+    </ng-container>
+  </div>
+  <ng-container  *ngIf= "_service._category =='all' || _service._category =='' ">
+    
+    <div class="container">
+      <h3> All Products </h3>
+      <div class="row mt-5 mx-5"> 
+        <div class="col col-md-3 mt-5" *ngFor="let product of products" >
+          <div class="card p-1" [ngStyle]="{'height':'500px'}"  >
+            <div class="card-image">
+              <img class="w-100 img-fluid"  src="{{product.image}}" alt="JUST A PHOTO" (click)="_details.load(product)">
+            </div>
+            <div class="card-body" style="padding: '10px'">
+              <h6>{{ product.name.slice(0, 50) }}...</h6>
+              <p>{{ product.description.slice(0, 100) }}...</p>
+              <span class="price-tag"><b>{{ product.price }} TND</b></span><br>
+              <a  class="btn btn-primary"style="margin-top: 5px;" (click)="addProduct(product)">ADD TO CART</a>
+             
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </ng-container>
+   
+  
+
+

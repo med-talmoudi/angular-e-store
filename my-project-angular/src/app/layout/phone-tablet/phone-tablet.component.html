@@ -1,0 +1,31 @@
+<ng-container *ngIf="_service._category === 'phone'">
+    <div class="container">
+        <h3>Phone & Tablet</h3>
+     
+      <div class="row mt-5 mx-5">
+        <ng-container *ngFor="let product of products">
+            <ng-container *ngIf="product.category === 'phone-tablet'">
+        <div class="col col-md-3 mt-5" >
+          
+            <div class="card p-1" [ngStyle]="{ 'height': '500px' }"(click)="_details.load(product)">
+              <div class="card-image">
+                <img class="w-100 img-fluid" src="{{ product.image }}" alt="JUST A PHOTO">
+              </div>
+              <div class="card-body" style="padding: 10px;">
+                <h6>{{ product.name.slice(0, 50) }}...</h6>
+                <p>{{ product.description.slice(0, 100) }}...</p>
+                <p class="price-tag"><b>{{ product.price }} TND</b></p>
+                <a href="#" class="btn btn-primary" style="margin-top: 5px;">ADD TO CART</a>
+              </div>
+            </div>
+         
+        </div>
+    </ng-container>
+</ng-container>
+      </div>
+  
+    </div>
+  </ng-container>
+
+  
+   

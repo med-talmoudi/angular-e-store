@@ -1,0 +1,22 @@
+{
+  "cartProducts": [
+    {
+      "id": 10,
+      "name": "Logicom Tablette Link 74 3G - 2G -16G - 7\" - Wi-Fi - Noir Avec ETUI - Garantie 1an",
+      "description": "Tablette LOGICOM Link 74\nÉcran: 7\"(pouces) \nRésolution: 1024 x 600\nSystème d'exploitation: Android 11 \nProcesseur: Quad-core 1.3 GHz\nMémoire RAM: 2 Go \nStockage: 16 Go\nAppareil photo Arrière: 5 MP \nAppareil photo Avant: 2 MP \nConnectivité: WiFi, Bluetooth, micro-usb, Jack stéréo\nBatterie: 2500 mAh \nCouleur: Noir \nAccessoires: Etui.",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/39/1217/1.jpg?5879",
+      "price": 247,
+      "available": true,
+      "category": "phone-tablet"
+    },
+    {
+      "id": 11,
+      "name": "Logicom Tablette Logicom - 2Gb -16Gb - Blanche - Garantie 1 an - Pochette",
+      "description": "Écran: 7\" (1024 x 600)\nSystème d'exploitation: Android 11\nProcesseur: Quad-core 1.3GHz\nMémoire RAM: 2 Go\nStockage: 16 Go allant jusqu'a 128Gb\nAppareil photo Arriere: 5 MégaPixels et Avant: 2 MégaPixels\nConnnectivité: 3G, WiFi, Bluetooth 4.0\nCapacité de la Batterie: Li-ion 2500 mAh\nCouleur: Blanc\nGarantie: 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/29/9966/1.jpg?8175",
+      "price": 249,
+      "available": true,
+      "category": "phone-tablet"
+    }
+  ]
+}

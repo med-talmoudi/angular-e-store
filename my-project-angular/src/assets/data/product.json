@@ -1,0 +1,323 @@
+[ 
+    {
+      "id": 1,
+      "name": "Infinix SMART 6 HD - 6.6'' - 4G/DS - 2/32 GB - X6512 - Force Black",
+      "description": "Ecran : 6.6\" IPS ; Résolution : 720 x 1600 pixels\nMémoire RAM : 2 Go - Stockage: 32 Go\nAppareil photo Arrière : 8 MP\nCamera Selfie : 5 MP\nProcesseur : Octo-core 1.8GHz ; Chipset : Mediatek Helio A35\nCapacité Batterie : 5000 mAh\nSystème d'exploitation : Android 11",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/69/0617/1.jpg?9966",
+      "price": 369.00,
+      "available": true,
+      "category": "phone-tablet"
+    },
+    
+      {
+        "id": 2,
+      "name": "Evertek M20 Nano - 4'' - 1G - 8G - Tifanny Blue - Garantie 1 An",
+      "description": "Ecran 4\" FWVGA Processeur  Quad-Core RAM 1Go - Mémoire 8 Go Appareils Photos: 2MP FF Arrirère /0.3MP Frontale Android Q Go 3G - Wifi - Bluetooth Garantie 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/24/1727/1.jpg?4089",
+      "price": 169,
+      "available": false,
+      "category": "phone-tablet"
+      },
+      {
+        "id": 3,
+        "name": "Infinix HOT 20 - 6.82\" -50MP - 90Hz - 7gb Ram -128GB + Anticasse et Pochette - Blanc- Garantie 1An",
+        "description": "Ecran: 6,82 pouces; Processeur: MediaTek Helio G85 Octa Core; Mémoire RAM: 4go up to 11go; Capacité de stockage: 128go; Système d'exploitation: Android 12; Appareil Photo Avant: 8MP; Appareil Photo Arrière: 50MP+IA; Batterie: 5000mAh avec charge rapide 18W; Connectivité: 4G, Wifi, Bluetooth.",
+        "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/97/0117/2.jpg?0786",
+        "price": 599,
+        "available": true,
+        "category": "phone-tablet"
+    },
+    
+    {
+      "id": 4,
+      "name": "Apple iPhone 14 Pro Max - 6,7\" - 512 GB -Deep Purple - Garantie 12 mois",
+      "description": "Puce A 16 Bionic CPU 6 Cœurs GPU 5 Cœurs Ecran Super Retina XDR OLED tout écran de 6.7pouces ( diagonale), Résolution de 2796*1290 pixels à 460 ppp Jusqu'à 29 H d'autonomie Stockage : 512 GB Appareil photo 48 Mpx Double SIM ( nano-SIM et eSIM) Garantie : 12 mois",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/07/6296/2.jpg?3192",      "price": 9883.30,
+      "available": true,
+      "category": "phone-tablet"
+    },
+    
+    {
+      "id": 5,
+      "name": "XIAOMI Redmi Note 11S - 8Go - 128Go - 108MP - Gris - Garantie 1 an",
+      "description": "Processeur: Octa Core, Qualcomm Snapdragon 680, 4x 2.4 GHz Cortex-A75, 4x 1.9 GHz Cortex-A55, Système d’exploitation: MIUI 13 basé sur Android 11, Mémoire: 8 Go, Stockage: 128 Go, Appareil photo arrière: Caméra grand angle 108 MP (Samsung HM2, f/1.9) + Caméra ultra grand angle 8 MP (f/2.2) + Caméra macro 2 MP (f/2.4) + Caméra de profondeur 2 MP (f/2.4), Avant : 13 MP (f/2.4), Batterie: Li-Ion 5000 mAh avec 4G et Bluetooth 5.1, GPS, Couleur: Gray, Garantie : 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/03/5446/1.jpg?7848",
+      "price": 1079.00,
+      "available": true,
+      "category": "phone-tablet"
+    },
+    
+    {
+      "id": 6,
+      "name": "Oppo A77s - 6.56\" - 8GB -128GB - Sunset Orange - 1 an Garantie",
+      "description": "Processeur: Qualcomm® Snapdragon™ 680 Octa Core\nMémoire RAM: 8go étendue jusqu'à 16go\nCapacité de stockage: 128go\nAppareil Photo Arrière: 50MP+2MP\nAppareil Photo Avant : 8MP\nIPX4,IP5X\nBatterie: 5000mAh avec charge rapide 33W SUPERVOOC\nGarantie: 1an\nReconnaissance faciale, Empreinte digitale",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/48/0907/1.jpg?2897",
+      "price": 999.00,
+      "available": true,
+      "category": "phone-tablet"
+    }
+    ,
+    {
+      "id": 7,
+      "name": "Huawei Nova Y90 - 6.7\" - 6Go - 128Go - Blue - Garantie 1an",
+      "description": "Taille de l'écran : 6.7 pouces\nRam : 6GO\nRom : 128GO\nBatterie : 5000mAh charge rapide 40W\nCamera frontale: 8MP\nCamera arrière : 50MP\nGarantie 1an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/86/1466/1.jpg?5267",
+      "price": 1079.00,
+      "available": true,
+      "category": "phone-tablet"
+    }
+    ,
+    {
+      "id": 8,
+      "name": "Logicom Tablette Wifi - 7\"- 1Gb - 16Gb - Noir - Garantie - Flash disque 128GB Gratuit",
+      "description": "Tablette Wifi Logicom ++ Flash Disque HP 128 GB Gratuit\nEcran 7\" Capacitif multipoint\nMémoire 16 Go jusqu'à 32 Go\nRAM 1 Go\nAppareils Photos: 2 MP (Arrière), 0.3 MP (Frontale)\nTablette Logicom LA TAB 74\nGarantie 1 an\nRésolution 1024 x 600 pixels\nProcesseur Quad-core 1.3GHz\nAndroid 10 Nougat\nBatterie: Jusqu'a 8H de musique et 2H30 de video avec 3G\nWifi - Bluetooth 4.0 - Batterie 2500 mAh\nCouleur : Black",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/59/1876/1.jpg?3235",
+      "price": 194.90,
+      "available": true,
+      "category": "phone-tablet"
+  }
+  ,
+  {
+    "id": 9,
+    "name": "Lenovo Tablette Tab M8 Hd 8\" 4G - 3 GO - 32 Go Gris",
+    "description": "Processeur helio a22 Tab\nAffichage : 8\" 1280*800 ips\n1 emplacement Carte sim\nWifi:80211A\nSystème: android\nBatterie : 5100 mah\n4G",
+    "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/47/1576/1.jpg?2744",
+    "price": 499.00,
+    "available": true,
+    "category": "phone-tablet"
+}
+,
+{
+  "id": 10,
+  "name": "Logicom Tablette Link 74 3G - 2G -16G - 7\" - Wi-Fi - Noir Avec ETUI - Garantie 1an",
+  "description": "Tablette LOGICOM Link 74\nÉcran: 7\"(pouces) \nRésolution: 1024 x 600\nSystème d'exploitation: Android 11 \nProcesseur: Quad-core 1.3 GHz\nMémoire RAM: 2 Go \nStockage: 16 Go\nAppareil photo Arrière: 5 MP \nAppareil photo Avant: 2 MP \nConnectivité: WiFi, Bluetooth, micro-usb, Jack stéréo\nBatterie: 2500 mAh \nCouleur: Noir \nAccessoires: Etui.",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/39/1217/1.jpg?5879",
+  "price": 247.00,
+  "available": true,
+  "category": "phone-tablet"
+}
+,
+{
+  "id": 11,
+  "name": "Logicom Tablette Logicom - 2Gb -16Gb - Blanche - Garantie 1 an - Pochette",
+  "description": "Écran: 7\" (1024 x 600)\nSystème d'exploitation: Android 11\nProcesseur: Quad-core 1.3GHz\nMémoire RAM: 2 Go\nStockage: 16 Go allant jusqu'a 128Gb\nAppareil photo Arriere: 5 MégaPixels et Avant: 2 MégaPixels\nConnnectivité: 3G, WiFi, Bluetooth 4.0\nCapacité de la Batterie: Li-ion 2500 mAh\nCouleur: Blanc\nGarantie: 1 an",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/29/9966/1.jpg?8175",
+  "price": 249.00,
+  "available": true,
+  "category": "phone-tablet"
+}
+,
+{
+  "id": 12,
+  "name": "Clever Tablette Kids - 7\"- 1Gb - 8Gb - Rouge - Garantie",
+  "description": "Tablette Clever KIDS\nEcran 7\" Capacitif multipoint\nMémoire 8 Go\nRAM 1 Go\nAppareils Photos: 2 MP (Arrière), 0.3 MP (Frontale)\nTablette Logicom LA TAB 74\nGarantie 1 an\nRésolution 1024 x 600 pixels\nProcesseur Quad-core\nAndroid 6\nBatterie: Jusqu'a 8H de musique et 2H30 de video\nWifi - Batterie 3000 mAh\nCouleur : Rouge",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/74/3217/1.jpg?0174",
+  "price": 193.00,
+  "available": true,
+  "category": "phone-tablet"
+}
+,
+{
+  "id": 13,
+  "name": "Asus Pc portable - Asus vivobook x415ea - i7 11è gén - 8 go 512ssd hd 14 - Grey",
+  "description": "Écran 14\" HD \nProcesseur: Intel® Core i7-1165G7 (2.80 GHz up to 4,70 GHz Turbo max, 12 Mo de mémoire cache, Quad-Core) \nSystème d'exploitation: Windows 10 Famille \nMémoire RAM: 8 Go \nDisque Dur: 512 Go SSD \nCarte Graphique: Intel HD Graphics avec Wi-Fi\nBluetooth,1x USB Type-C 3.2 Gen 1, 1x USB Type-A 3.2 Gen 1, 2x USB Type-A 2.0, 1x HDMI 1.4, 1x Prise combo audio 3,5 mm et lecteur de carte Micro SD \nClavier Chiclet avec touche Numérique ",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/14/0675/1.jpg?4989",
+  "price": 2099.00,
+  "available": true,
+  "category": "laptop-desktop"
+}
+,
+      {
+        "id": 14,
+        "name": "Apple MacBook Pro 14\" - Puce M1 Pro - 512 GB - Garantie 1 an",
+        "description": "TMacBook Pro (14 pouces) - Gris Sidéral\nCPU 8 cœurs\nGPU 14 cœurs\n16 Go de mémoire unifiée\nSSD de 512 Go\nNeural Engine 16 cœurs\nÉcran Liquid Retina XDR 14 pouces\nTrois ports Thunderbolt 4, port HDMI, lecteur de carte SDXC, port MagSafe 3\nMagic Keyboard avec Touch ID\nTrackpad Force Touch\nAdaptateur secteur USB‑C 67 W\nGarantie 1 An",
+        "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/94/9394/1.jpg?8913",
+        "price": 8058.00,
+        "available": true,
+        "category": "laptop-desktop"
+      }
+      ,
+      {
+        "id": 15,
+        "name": "Asus Pc portable - Asus vivobook e210ma - Dual core - 4 go - White",
+        "description": "Ecran 11.6\" HD LED\nProcesseur Intel Celeron N4020, up to 2.8 GHz, 4 Mo de Mémoire Cache\nMémoire 4 Go\nDisque 128 Go SSD\nCarte graphique Intel UHD Graphics\nWifi - Bluetooth - Webcam\n1x Type-A USB 3.1 - 1x Type-C USB 3.1 - 1x USB 2.0\nLecteur de cartes\nClavier Chiclet\nWindows 10",
+        "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/13/0675/1.jpg?2058",
+        "price": 499.00 ,
+        "available": true,
+        "category": "laptop-desktop"
+    },
+    
+    {
+      "id": 16,
+      "name": "Lenovo Pc Portable V15 N4020 Dualcore 4G 1T - Garantie 1an",
+      "description": " Écran 15,6″ HD (1366×768)\nProcesseur: Intel Celeron N4020 (2C / 2T, 1,1 / 2,8 GHz, 4 Mo)\nMémoire RAM: 4 Go de mémoire DDR4-2400 soudée\nDisque Dur: 1 To 5 400 tr/min 2,5″\nCarte Graphique: Intel UHD 600 intégrée\nPorts standards: 1x HDMI 1.4b / 1x connecteur d’alimentation / 1x USB 2.0 / 1x lecteur de carte / 2x USB 3.1 Gen 1 / 1x prise combo casque/micro (3,5 mm)\nCouleur: Gris \nGarantie: 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/72/6764/1.jpg?1105",
+      "price": 599.00,
+      "available": true,
+      "category": "laptop-desktop"
+    },
+    
+    {
+      "id": 17,
+      "name": "Pc HP15 - I3 11éme Gén - 16 G - 1T - Win 64bit -Garantie 1an",
+      "description": "Processeur: Intel® Core™ i3-1115G4 (4,10 GHz Turbo max, 6Mo de mémoire cache)\nSystème d'exploitation:  Windows 64bits  Home\nMémoire: 16 Go DDR4 (Extension)\nDisque dur: 1000 Go\nEcran 15.6\" HD\nCarte graphique: Intel® Iris® Xᵉ, \nWifi, Bluetooth, USB Type-C, HDMI et RJ-45\nCouleur: Gris\nUnité Optique : Non (pas de Graveur DVD)\nGarantie: 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/1144/1.jpg?3286",
+      "price": 1395.00,
+      "available": true,
+      "category": "laptop-desktop"
+    }
+    ,
+    {
+      "id": 18,
+      "name": "Lenovo PC Portable AMD Athlon - 4Go - 1To - Noir -W10- Garantie 1an",
+      "description": "Écran HD de 15,6 HD TN\nProcesseur: AMD Athlon Silver 3050U \nSystème d'exploitation: Windows 10 Famille\nMémoire RAM: 4 Go\nDisque Dur: 1 To\nCarte Graphique: AMD Radeon Graphics\nCouleur: Noir\nGarantie: 1 an",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/70/6437/1.jpg?5188",
+      "price": 629.00,
+      "available": true,
+      "category": "laptop-desktop"
+    }
+    ,
+    {
+      "id": 19,
+      "name": "Montage Pc bureautique Core 2 Duo- hdd 500 go- 4Go - Garantie 1 an",
+      "description": "Un nouveau pc avec un prix imbattable\nPC montage core 2 duo  \nIntel core 2 duo  / carte mere G41 / Memoire 4GO\nDDRIII / disque dur 500Go\nClavier + Souris\nGarantie 12 mois",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/74/8827/1.jpg?1810",
+      "price": 499.00,
+      "available": true,
+      "category": "laptop-desktop"
+    },
+    
+    {
+      "id": 20,
+      "name": "Lenovo PC de Bureau Lenovo V130-20IGM ALL-IN-ONE 4 GO",
+      "description": "PC ALL IN ONE LENOVO \n\nEcran 19.5\" WXGA+ (1440*900)\n\nProcesseur Intel Pentium Silver j5040 Quad core \n\nCarte Graphique Intel UHD \n\nMémoire 4 GO \n\nDISQUE 1 TO\n\nLecteur DVD \n\nLecteurs de cartes \n\nwebcam 720p\n\nWIFI , Bluetooth , Haut parleur  2W \n\nClavier et Souris USB\n\nCouleur Noir\n\nGarantie 1 an ",
+      "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/09/9295/1.jpg?9435",
+      "price": 1299.00,
+      "available": true,
+      "category": "laptop-desktop"
+  }
+  ,
+  {
+    "id": 21,
+    "name": "Asus Pc Tout-en-un - AIO V241EAK I5 11È - 8G - 1T+ 128 SSD - Win11 - White",
+    "description": "Écran 23.8\" LED Full HD\nProcesseur Intel Core i5-1135G7\nMémoire 8 Go DDR4\nDisque 1 To + 128 SSD NVMe\nCouleur White\nGarantie 2 ans\nOS: Windows 11 64Bits",
+    "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/27/5137/1.jpg?3868",
+    "price": 2859.00,
+    "available": true,
+    "category": "laptop-desktop"
+}
+,
+{
+  "id": 22,
+  "name": "Montage Unité centrale -Core 2 duo -500Go - 4 Go DDR3 -Garantie 1 an",
+  "description": "Processeur Intel® CORE 2 DUO\nMémoire RAM: 4Go DDR3\nDisque Dur : 500Go sata\nCommunication Gigabit LAN   4 x USB 2.0 ports,\nVGA - RJ45\nClavier  Led\nSouris Led\nTapis souris\nHaut parleur\nSans lecteur optique \nGarantie: 12 mois",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/71/2556/1.jpg?8555",
+  "price": 520.00,
+  "available": true,
+  "category": "laptop-desktop"
+},
+  
+{
+  "id": 23,
+  "name": "XTRIKE ME Clavier Gaming mécanique gk-915 / rgb",
+  "description": "Gaming Mécanique\nAnti-ghosting Blue Switch\nRétroéclairage coloré avec LED individuelle pour chaque touche\n12 schémas d'éclairage sélectionnables\nRétroéclairage arc-en-ciel",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/66/5245/1.jpg?6346",
+  "price": 76.0,
+  "available": true,
+  "category": "accessories"
+}
+,
+{
+  "id": 24,
+  "name": "Logitech Souris Sans Fil - Unify MX Anywhere 2S - Bleu - Rechargeable",
+  "description": "Technologie de connectivité: Sans fil 2,4 GHz\nDistance de fonctionnement sans fil: 10 m\nNombre de boutons: 7\nBatterie rechargeable: Li-Po (500 mAh)\nRésolution Optique: 4000 dpi\nFonctionne sur quasiment toutes les surfaces (même le verre)\nPossibilité de connexion sur trois appareils\nVoyants lumineux\nCompatible avec: Windows 10 ou version ultérieure",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/7207/1.jpg?7807",
+  "price": 209.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 25,
+  "name": "OneOdio Micro casque - A70 - Marron",
+  "description": "Très confortable\nUne connexion Bluetooth stable et fiable\nDouble connexion câblée (3,5 mm et 6,35 mm)\nBonne autonomie\nun casque très joli, adapté aux DJs, mais pouvant également être utilisé en Bluetooth.",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/4956/2.jpg?7846",
+  "price": 219.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 26,
+  "name": "Komc Casque Micro Gaming - USB - G314",
+  "description": "Casque Micro USB G314\nCoussins moelleux et confortable\nConnectivité: Port USB\nCouleur: Noir, bleu",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/2306/1.jpg?3565",
+  "price": 53.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 27,
+  "name": "White Shark Microphone Gamer TAUS DSM-03 - Noir",
+  "description": "Connectivite : Filaire\nInterface : USB\nSensibilité : 13.5 dB +/- 3 dB (0 dB = 1 V/Pa @ 1 kHz)\nRéponse en fréquence : 20 - 20000 Hz\nDiamètre microphone : 14 mm\nModèle de ramassage : Cardioïde\nRapport S/B : 60 dB\nLongueur du Câble : 1.5m\nSupport de trépied portable, rotatif et pliable\nCouleur : Noir",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/65/5264/1.jpg?9266",
+  "price": 159.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 28,
+  "name": "Jedel HAUT PARLEUR POUR PC S-526",
+  "description": "SPEAKER JEDEL S-526\n\nBrand : JEDEL\nModel : S-526\nSpeaker Type : USB Computer to Box\nMaterial : ABS Plastic\nSound Channel : 2.0 channel\nAdjustment Method : In-line control\nSpeaker Size : 52mm fullrange speaker X2\nInput Interface : 3.5mm universal audio interface\nOutput Power : 3W x2\nCable Length : 1 meter\nPower Supply Mode : USB power supply interface (5V)\nInpedance : 4 Ohm x 2\nFrequency Response : 120Hz-20KHz\nCabinet Size : 65 x 80 x 100mm X2\nColor : Black",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/10/5386/1.jpg?2095",
+  "price": 33.0,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 29,
+  "name": "Arduino NRF24L01+PA+LNA + antenne",
+  "description": "Ce module nRF24L01 + est conçu avec un amplificateur de puissance et une antenne SMA Cela vous a permis d'utiliser la communication sans fil jusqu'à 1000 mètres! (Pas de barrière)\nFréquence: 2,4 GHz ~ 2,5 GHzTension de fonctionnement: 3 ~ 3.6V Courant maximum: 115mAMultifréquence: 125 fréquencesPrend en charge jusqu'à six canaux de réception de données",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/79/8871/1.jpg?2683",
+  "price": 30.99,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 30,
+  "name": "White Shark WebCam gamer white shark OWL - 1080P - Noir - GWC-004",
+  "description": "Capteur : CMOS 2.0 Mpix SONIX 2279 + 2053\nCouleur : Noir\nInterface : USB 2.0\nMise au point : Manuelle\nAutres : réglage automatique de la saturation, contraste, exposition, balance des blancs.\nRésolution (DPI) : 1920 x 1080 FULL HD\nMicro : Intégré\nLongueur de câble (m) : 1,5\nFréquence d'images : 30 ips\nCompatibilité : Windows XP/Vista/7/8/10",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/58/2627/1.jpg?2993",
+  "price": 69.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 31,
+  "name": "Gigabyte Disque dur SSD - 2.5\" - 480 Go",
+  "description": "Disque Dur Interne SSD 2.5\"\nCapacité 480 Go\nInterface SATA III \nVitesse de Lecture Jusqu'à 500 Mb/s\nVitesse d'écriture Jusqu'à 380 Mb/s\n Interface SATA 6.0Gb/s\nDimensions: 100 x 69.9 x 7 mm\nPoids: 20 g",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/17/0222/1.jpg?6767",
+  "price": 250.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 32,
+  "name": "Silicon Power SP Boitier SATA - Power Armor A30 - Usb 3- Pour DD 2.5\" Slim",
+  "description": "Boitier externe renforcé pour disque dur HDD ou SSD 2.5'' Slim\nConception ultra-résistante\nRespecte la norme militaire anti-chute américaine MIL-STD-810H pour une résistance à des chutes de 3 m\nTaux de transfert rapide (jusqu’à 5 Gbps) grâce au câble USB 3.0\nIndicateur LED\nTotalement \"Plug & Play\": aucun adaptateur externe requis\nCompatible Windows, Mac et Linux\nCouleur : Blanc\nRef: SP000HSPHDA30S3K",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/63/8863/2.jpg?3877",
+  "price": 49.00,
+  "available": true,
+  "category": "accessories"
+},
+{
+  "id": 33,
+  "name": "Adata Flash Disque - 32Go - AUV240 - Rouge",
+  "description": "Flash Disque ADATA\nModèle: AUV240\nCapacité de Stockage : 32Go\nInterface : USB 2.0\nCompatible avec Windows 7, 8, 10 et Mac Os\nCouleur : Rouge ",
+  "image": "https://tn.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/20/8315/1.jpg?3428",
+  "price": 17.90,
+  "available": true,
+  "category": "accessories"
+}
+      
+     
+      
+    ]

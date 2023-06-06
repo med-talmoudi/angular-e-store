@@ -1,0 +1,41 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+.price-tag{
+    color: #dc3545;
+    
+    
+  }
+
+  .card-image {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .card-image img {
+    transition: transform 0.3s ease-in-out;
+    object-fit: cover;
+    cursor: pointer;
+  }
+
+
+  .card-image:hover img {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+
+  .card {
+    transition: box-shadow 0.2s, transform 0.2s;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+    transform: scale(1.03);
+    
+  }
+
+  span{
+    color: #dc3545;
+  }
